@@ -4,7 +4,7 @@ This Java program implements a Max Heap data structure that manages characters. 
 (in terms of its lexicographical order) is always at the root of the heap. The program supports adding characters, removing the largest character, <br>
 and performing some additional operations like displaying and traversing the heap in preorder.<br>
 
-<h1>Commands</h1>
+<h2>Commands</h2>
 A to Z (UPPERCASE ONLY) - adds the character to the heap using the add() method.<br>
 * (asterisk) - prints the root of the heap (the maximum character) and removes it using the delete() method.<br>
 # (hash) - displays the current state of the heap.<br>
